@@ -11,7 +11,7 @@
   "author": "Joseph Davis",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.21.2",
+    "axios": "^1.6.0",
     "colors": "^1.4.0",
     "commander": "^5.0.0",
     "configstore": "^6.0.0",
